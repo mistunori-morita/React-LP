@@ -31,7 +31,9 @@ body {
     width: 900px;
     margin:0 auto;
 }
-
+.highlight_wrapper .highlight_description{
+    word-break: break-all;
+}
 
 /*====================
         HEADER

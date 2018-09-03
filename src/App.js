@@ -4,6 +4,7 @@ import './style.css';
 import Header from './components/header_footer/Header'
 import Featured from './components/featured'
 import VuneNfo from './components/VuneNfo'
+import Highlights from './components/Highlights'
 
 class App extends Component {
   render() {
@@ -12,6 +13,7 @@ class App extends Component {
        <Header />
        <Featured />
        <VuneNfo />
+       <Highlights />
       </div>
     );
   }
