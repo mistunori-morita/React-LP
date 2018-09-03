@@ -3,6 +3,7 @@ import './resources/styles.css';
 import './style.css';
 import Header from './components/header_footer/Header'
 import Featured from './components/featured'
+import VuneNfo from './components/VuneNfo'
 
 class App extends Component {
   render() {
@@ -10,6 +11,7 @@ class App extends Component {
       <div className="App">
        <Header />
        <Featured />
+       <VuneNfo />
       </div>
     );
   }
