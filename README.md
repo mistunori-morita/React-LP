@@ -6,4 +6,4 @@
 - surge -p build
 
 ## 完成図
-[完成図](img/1.gif)
+![LP]](img/comp.gif)
